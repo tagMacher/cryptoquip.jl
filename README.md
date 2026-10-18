@@ -1,6 +1,6 @@
 # CryptoQUIP Solver (Julia)
 
-A command-line tool written in Julia to interactively solve daily letter-substitution CryptoQUIP puzzles (as seen in newspapers like the *Star of Mysore*).
+A command-line tool written in Julia to interactively solve daily letter-substitution CryptoQUIP puzzle that appears in the newspaper [Star of Mysore](https://starofmysore.com/).
 
 ## Features
 - **Interactive Substitutions:** Map cipher letters to plain text (e.g., `U=W` or batch input `U=W, K=E`).
